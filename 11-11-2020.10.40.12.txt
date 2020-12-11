@@ -1,0 +1,4 @@
+Idioma_original: PtBr
+Idioma_traducao: ZhCh
+Frase: frango
+Tradução: 鸡

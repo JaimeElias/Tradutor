@@ -1,0 +1,4 @@
+Idioma_original: DeAl
+Idioma_traducao: PtBr
+Frase: Schwein
+Tradução: Porco

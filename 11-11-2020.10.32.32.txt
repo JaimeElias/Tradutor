@@ -1,0 +1,4 @@
+Idioma_original: EnUs
+Idioma_traducao: PtBr
+Frase: Tennis
+Tradução: Tênis
